@@ -1,0 +1,13 @@
+package Chapter05.ex01; //자기가 소속되있는 패키지이다.
+
+public class Main { //Class 이름
+
+	public static void main(String[] args) { // Main 메서드
+
+//		자바의 기본 베이스다.
+		
+	}
+	
+//	    - 기본 메인 -
+
+}
